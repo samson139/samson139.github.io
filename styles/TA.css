@@ -16,6 +16,8 @@ body {
   background-color: rgb(255, 255, 255);
 }
 #navElements {
+  display: flex;
+  justify-content: space-around;
   color: beige;
   background-color: black;
   padding-top: 0.25rem;
